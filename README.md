@@ -30,7 +30,7 @@ Follow these instructions to set up and run the DISHA application on your local 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/DISHA-Women-Safety-App.git
+   [git clone https://github.com/your-username/DISHA-Women-Safety-App.git](https://github.com/[your-username]/Disha-Women-s-Safety-App.git)
    
 2. **Navigate to the Project Directory**
 
